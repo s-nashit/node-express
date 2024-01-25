@@ -1,0 +1,1 @@
+Computers at this time were using 8 bits for one byte (they didn't always), so there were no issues.
