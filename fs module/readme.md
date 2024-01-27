@@ -5,3 +5,4 @@ walkinjg through file systems *fs) module;
 4. read.js -> reading external text file in sync & async mode
 5. routing.js -> routing through plain text
 6. routing1.js -> routing through html pages
+7. write.js -> writing to an external file using sync & async modes in write & appends modes
